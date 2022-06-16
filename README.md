@@ -73,6 +73,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [A11yWeekly](https://a11yweekly.com/)  
 
 ## Courses - Free
+[Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)    
 [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)  
 [Learn the basics of web accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/web-development-101-accessibility/)  
 
