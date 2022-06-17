@@ -25,13 +25,13 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [WCAG Color Contrast Checker](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)  
 
 ## Blogs
-[Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)
-[Leonie Watson](https://tink.uk/)  
-[Hidde de Vries](https://hidde.blog/blog/)
+[Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)  
+[Leonie Watson](https://tink.uk/)    
+[Hidde de Vries](https://hidde.blog/blog/)  
 [Per Axbom](https://axbom.com/)  
 [Sara Soueidan](https://www.sarasoueidan.com/blog/)  
 [Scott O'Hara](https://www.scottohara.me/writing/)  
-[TetraLogical](https://tetralogical.com/blog/)
+[TetraLogical](https://tetralogical.com/blog/)  
 
 
 ## Twitter Accounts
