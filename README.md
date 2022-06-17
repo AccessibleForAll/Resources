@@ -64,6 +64,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [AxeCon](https://www.deque.com/axe-con/)  
 
 ## Youtube channels
+[Chrome Developers](https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 ## Podcasts
 [a11yRules](https://a11yrules.com/)  
