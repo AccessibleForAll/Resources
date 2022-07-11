@@ -1,9 +1,12 @@
 # Resources
 A collection of blogs, websites, twitter accounts and other accessibility resources.  
 
-## Websites (English)
-[Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)  
+## Websites (English)  
+[13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)  
+[18F Content Guide (Guide to plain language)](https://content-guide.18f.gov/)  
 [A11y Coffee](https://a11y.coffee/)  
+[Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)  
+[Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
 [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
 [Inclusive Components](https://inclusive-components.design/)  
 [Testing Accessibility](https://testingaccessibility.com/)  
@@ -23,6 +26,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [Web Content Accessibility Guidelines 2.1 - Svenska/Suomi](https://www.tillganglighetskrav.fi/lagar-och-standarder/wcag-2-1/)  
 [Webbriktlinjer - Svenska](https://webbriktlinjer.se/)  
 
+## E-books  
+[Accessibility Handbook](https://www.accessibility.uxdesign.cc/)  
+
 ## Extensions 
 [Accessibility Insights for Web (Chrome and Edge)](https://accessibilityinsights.io/docs/web/overview/)  
 [Axe Dev Tools (Chrome)](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)  
@@ -34,8 +40,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Blogs
 [Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)  
-[Leonie Watson](https://tink.uk/)    
-[Hidde de Vries](https://hidde.blog/blog/)  
+[Hidde de Vries](https://hidde.blog/blog/) 
+[Leonie Watson](https://tink.uk/)   
+[Meryl Evans](https://meryl.net/blog/)  
 [Per Axbom](https://axbom.com/)  
 [Sara Soueidan](https://www.sarasoueidan.com/blog/)  
 [Scott O'Hara](https://www.scottohara.me/writing/)  
