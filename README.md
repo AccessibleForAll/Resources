@@ -102,6 +102,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [Whatsock Apex 4x ARIA Development Suite](https://whatsock.com/)  
 [W3C Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria/)  
 [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)  
+[Accessibility Checker](https://www.accessibilitychecker.org/) 
 
 ## Websites (Other languages)
 [Introduktion till WCAG av Per Axbom - Svenska](https://axbom.eu/digitill/)  
