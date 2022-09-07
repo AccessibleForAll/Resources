@@ -21,7 +21,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 [Who can use](https://whocanuse.com/)
 
 ## Conferences
-[AxeCon](https://www.deque.com/axe-con/)
+[AxeCon](https://www.deque.com/axe-con/) 
+[WebAIM](https://conference.webaim.org/) 
+[Inclusive Design 24](https://inclusivedesign24.org/) 
+
 
 ## Courses - Free
 [Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)    
