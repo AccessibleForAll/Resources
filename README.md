@@ -13,6 +13,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Scott O'Hara](https://www.scottohara.me/writing/)  
 - [TetraLogical](https://tetralogical.com/blog/)  
 - [Wholly Accessible](https://whollyaccessible.org/)  
+- [Bureau of Internet Accessibility](https://www.boia.org/blog)  
 
 ## Color and Color Contrast
 
