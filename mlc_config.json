@@ -1,6 +1,3 @@
-// 429 Too Many Requests
-// This is the typical github answer after too much requests, so I would like to ignore this status when it happens.
-
 {
   "aliveStatusCodes": [429, 200]
 }
