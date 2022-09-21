@@ -5,6 +5,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Blogs
 
 - [Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)  
+- [Bureau of Internet Accessibility](https://www.boia.org/blog)  
 - [Hidde de Vries](https://hidde.blog/blog/)  
 - [Leonie Watson](https://tink.uk/)
 - [Meryl Evans](https://meryl.net/blog/)  
