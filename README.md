@@ -47,9 +47,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 - [Gov.uk design system](https://design-system.service.gov.uk/)  
 
-## E-books  
+## E-books/Audio books  
 
-- [Accessibility Handbook](https://www.accessibility.uxdesign.cc/)  
+- [Giving a Damn about Accessibility - Sheri Byrne-Haber](https://www.accessibility.uxdesign.cc/)  
 
 ## Extensions
 
