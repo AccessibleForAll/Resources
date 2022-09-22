@@ -43,8 +43,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Introduction to Developing Custom Components with ARIA 1 - Pluralsight](https://www.pluralsight.com/courses/introduction-developing-custom-components-aria)  
 - [Meeting Web Accessibility Guidelines - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
 
-## Design Systems  
+## Design Systems and Patterns  
 
+- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)  
+- [E-bay Mind Patterns](https://ebay.gitbook.io/mindpatterns)  
 - [Gov.uk design system](https://design-system.service.gov.uk/)  
 
 ## E-books/Audio books  
