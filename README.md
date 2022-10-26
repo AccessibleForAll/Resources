@@ -150,3 +150,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Chrome Developers](https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 ## Youtube videos (from channels without an accessibility focus)
+- [Getting Started with Accessibility](https://youtu.be/qr0ujkLLgmE)
+- [ Accessibility in VS Code](https://youtu.be/9biCDjSSwqw)
+- [ARIA HTML Tutorial](https://youtu.be/0hqhAIjE_8I)
+- [ Website Accessibility Checklist](https://youtu.be/68h6bq1aYZo)
+- [2 Easiest Ways To Improve Your Site’s Accessibility](https://youtu.be/A4OftTlVldo)
+- [Fix Accessibility Issues](https://youtu.be/3Ixc4mxkFRc)
+
+
