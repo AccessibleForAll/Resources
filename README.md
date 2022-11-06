@@ -34,7 +34,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Courses - Free
 
 - [Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)
-- [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)
+- [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)  
+- [Learn Accessibility - Google](https://web.dev/learn/accessibility/)  
 - [Learn the basics of web accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/web-development-101-accessibility/)
 - [Start Building Accessible Web Applications Today - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
@@ -79,8 +80,14 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Podcasts
 
-- [a11yRules](https://a11yrules.com/)
-- [Allied](https://www.3playmedia.com/alliedpodcast/)
+- [a11yRules](https://a11yrules.com/)  
+- [Accessibility Insights - AbilityNet](https://abilitynet.org.uk/accessibility-services/techshare-procast-abilitynets-podcast)
+- [Allied](https://www.3playmedia.com/alliedpodcast/)  
+- [Disability Visibility](https://disabilityvisibilityproject.com/podcast-2/)  
+
+## Testing
+- [Cypress-axe NPM package](https://www.npmjs.com/package/cypress-axe)  
+- [Polypane Browser - paid subscription](https://polypane.app/)
 
 ## Twitter Accounts tweeting mostly about Accessibility
 
@@ -122,11 +129,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 - [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
-- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
+- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
+- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
 - [IBM Accessibility](https://www.ibm.com/able/)
 - [Inclusive Components](https://inclusive-components.design/)
-- [Inclusiville - Empathy Building Game](https://inclusiville.com/)
-- [Is it accessible? NPM package tester](https://isitaccessible.dev/)
+- [In9clusiville - Empathy Building Game](https://inclusiville.com/)
+- [I8s it accessible? NPM package tester](https://isitaccessible.dev/)  
 - [Testing Accessibility](https://testingaccessibility.com/)
 - [The a11y project](https://www.a11yproject.com/)
 - [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
