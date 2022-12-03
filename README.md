@@ -5,7 +5,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Blogs
 
 - [Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)
-- [Bureau of Internet Accessibility](https://www.boia.org/blog)
+- [Bureau of Internet Accessibility](https://www.boia.org/blog)  
+- [Deque Blog](https://www.deque.com/blog/)  
 - [Hidde de Vries](https://hidde.blog/blog/)
 - [Kitty Giraudel](https://kittygiraudel.com/blog/)
 - [Leonie Watson](https://tink.uk/)
@@ -58,8 +59,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 - [Giving a Damn about Accessibility - Sheri Byrne-Haber](https://www.accessibility.uxdesign.cc/)
 
-## Extensions
+## Extensions and Bookmarklets
 
+- [A11y tools](https://a11y-tools.com/)  
 - [Accessibility Insights for Web (Chrome and Edge)](https://accessibilityinsights.io/docs/web/overview/)
 - [Axe Dev Tools (Chrome)](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 - [Funkify - Disability Simulator (Chrome)](https://chrome.google.com/webstore/detail/funkify-%E2%80%93-disability-simu/ojcijjdchelkddboickefhnbdpeajdjg?hl=en)
@@ -130,11 +132,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
-- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
+- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
+- [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
 - [IBM Accessibility](https://www.ibm.com/able/)
 - [Inclusive Components](https://inclusive-components.design/)
-- [In9clusiville - Empathy Building Game](https://inclusiville.com/)
-- [I8s it accessible? NPM package tester](https://isitaccessible.dev/)  
+- [Inclusiville - Empathy Building Game](https://inclusiville.com/)
+- [Is it accessible? NPM package tester](https://isitaccessible.dev/)  
 - [Testing Accessibility](https://testingaccessibility.com/)
 - [The a11y project](https://www.a11yproject.com/)
 - [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
