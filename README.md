@@ -39,6 +39,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Learn Accessibility - Google](https://web.dev/learn/accessibility/)  
 - [Learn the basics of web accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/web-development-101-accessibility/)
 - [Start Building Accessible Web Applications Today - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
+- [Web Accessibility - Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 
 ## Courses - Paid
 
