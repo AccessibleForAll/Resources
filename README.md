@@ -25,6 +25,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [WCAG Color Contrast Checker (Chrome Extension)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Who can use](https://whocanuse.com/)
+- [Flatuicolors](https://flatuicolors.com/)
+- [Materialuicolors](https://materialuicolors.co/)
 
 ## Conferences
 
