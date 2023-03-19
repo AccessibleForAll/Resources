@@ -28,7 +28,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Conferences
 
-- [AxeCon](https://www.deque.com/axe-con/)
+- [Access](https://go.3playmedia.com/en/access/registration)
+- [AxeCon](https://www.deque.com/axe-con/)  
+- [Global Accessibility Awareness Day (GAAD)](https://accessibility.day/)  
 - [WebAIM](https://conference.webaim.org/)
 - [Inclusive Design 24](https://inclusivedesign24.org/)
 
@@ -71,6 +73,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [taba11y (Chrome)](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga)
 - [Wave Evaluation Tool (Chrome)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 - [WCAG Color Contrast Checker (Chrome)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
+
+## Figma Plugins  
+- [Axe for Designers (FREE)](https://www.figma.com/community/plugin/1085612091163821851/Axe-for-Designers-(FREE))  
+- [Include - Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/Include/Include%E2%80%94Accessibility-Annotations)  
 
 ## Newsletters
 
@@ -130,7 +136,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [A11y-101 Introduction to Accessibility](https://a11y-101.com/)
 - [A11y Coffee](https://a11y.coffee/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
-- [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)
+- [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
+- [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
 - [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
