@@ -87,6 +87,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [WCAG of the Day](https://dwcag.org/)
 - [WebAIM Newsletter](https://webaim.org/newsletter/)
 
+
+## Plain Language  
+- [Words to avoid - Suggestions from Gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
+- [Hemingway Text Editor](https://hemingwayapp.com/)
+
 ## Podcasts
 
 - [a11yRules](https://a11yrules.com/)  
