@@ -76,10 +76,18 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Figma Plugins  
 - [Axe for Designers (FREE)](https://www.figma.com/community/plugin/1085612091163821851/Axe-for-Designers-(FREE))  
-- [Include - Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/Include/Include%E2%80%94Accessibility-Annotations)  
+- [Include - Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/Include/Include%E2%80%94Accessibility-Annotations)
+
+## Inaccessible sites for demo purposes  
+- [Accessible University](https://openassessittoolkit.github.io/accessible_u/before_u.html)
+- [Awesome Store Demo](https://www.tpgarcdemo.com/)
+- [Fake Wine Barrel](https://fakewinebarrel.com/)  
+- [GovUK Failing WCAG examples](https://alphagov.github.io/accessibility-tool-audit/test-cases.html)
+- [Mars Commuter - Deque](https://dequeuniversity.com/demo/mars/)  
+- [Record a Goose Sighting - GovUK training site](https://record-a-goose-sighting.herokuapp.com/)  
+- [W3C WAI demo page](https://www.w3.org/WAI/demos/bad/before/home.html)
 
 ## Newsletters
-
 - [A11yWeekly](https://a11yweekly.com/)
 - [Equal Entry](https://equalentry.com/newsletter/)
 - [Stark](https://www.getstark.co/newsletter/)
@@ -140,7 +148,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [18F Content Guide (Guide to plain language)](https://content-guide.18f.gov/)
 - [A11y-101 Introduction to Accessibility](https://a11y-101.com/)
 - [A11y Coffee](https://a11y.coffee/)
-- [A11y is Everything - Interactive Quizzes](https://www.a11yiseverything.com/quizzes/)  
+- [A11y is Everything - Interactive Quizzes](https://www.a11yiseverything.com/quizzes/)
+- [A11y Solutions](https://a11y-solutions.stevenwoodson.com/)   
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 - [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
