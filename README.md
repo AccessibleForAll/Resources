@@ -153,6 +153,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Is it accessible? NPM package tester](https://isitaccessible.dev/)  
 - [Testing Accessibility](https://testingaccessibility.com/)
 - [The a11y project](https://www.a11yproject.com/)
+- [The book on accessibility - Measure accessibility at enterprise (or any) scale](https://www.thebookonaccessibility.com/)  
 - [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
 - [WebAIM](https://webaim.org/)
 - [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
