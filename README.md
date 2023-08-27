@@ -140,6 +140,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [18F Content Guide (Guide to plain language)](https://content-guide.18f.gov/)
 - [A11y-101 Introduction to Accessibility](https://a11y-101.com/)
 - [A11y Coffee](https://a11y.coffee/)
+- [A11y is Everything - Interactive Quizzes](https://www.a11yiseverything.com/quizzes/)  
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 - [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
