@@ -17,10 +17,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [TetraLogical](https://tetralogical.com/blog/)
 - [Wholly Accessible](https://whollyaccessible.org/)
 
-## Bookmarklets
-- [Javascript Bookmarklets for Accessibility Testing by Paul J Adam](https://pauljadam.com/bookmarklets/)  
-- [A11y Tools](https://a11y-tools.com/bookmarklets/)  
+## Bookmarklets  
 - [24 pixel cursor bookmarklet - Adrian Roselli](https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html)
+- [A11y Tools](https://a11y-tools.com/bookmarklets/)  
+- [Javascript Bookmarklets for Accessibility Testing by Paul J Adam](https://pauljadam.com/bookmarklets/)  
+
+
 
 ## Color and Color Contrast
 
@@ -53,7 +55,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Testing And Screen Reader - Pluralsight](https://www.pluralsight.com/courses/accessibility-testing-and-screen-reader)
 - [Introduction to Developing Custom Components with ARIA 1 - Pluralsight](https://www.pluralsight.com/courses/introduction-developing-custom-components-aria)
 - [Meeting Web Accessibility Guidelines - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
-- [Testing Accessibility](https://testingaccessibility.com/)
+- [Practical Accessibility - Sara Soueidan](https://practical-accessibility.today/)  
+- [Testing Accessibility - Marcy sutton](https://testingaccessibility.com/)
 
 ## Design Systems and Patterns
 
