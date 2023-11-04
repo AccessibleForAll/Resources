@@ -17,6 +17,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [TetraLogical](https://tetralogical.com/blog/)
 - [Wholly Accessible](https://whollyaccessible.org/)
 
+## Bookmarklets
+- [Javascript Bookmarklets for Accessibility Testing by Paul J Adam](https://pauljadam.com/bookmarklets/)  
+- [A11y Tools](https://a11y-tools.com/bookmarklets/)  
+- [24 pixel cursor bookmarklet - Adrian Roselli](https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html)
+
 ## Color and Color Contrast
 
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
@@ -62,7 +67,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 - [Giving a Damn about Accessibility - Sheri Byrne-Haber](https://www.accessibility.uxdesign.cc/)
 
-## Extensions and Bookmarklets
+## Extensions
 
 - [A11y tools](https://a11y-tools.com/)  
 - [Accessibility Insights for Web (Chrome and Edge)](https://accessibilityinsights.io/docs/web/overview/)
