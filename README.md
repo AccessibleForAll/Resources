@@ -59,7 +59,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Testing Accessibility - Marcy sutton](https://testingaccessibility.com/)
 
 ## Design Systems and Patterns
-
+- [Arbetsförmedlingen (Swedish)](https://designsystem.arbetsformedlingen.se/)  
 - [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
 - [Carbon Design System by IBM](https://carbondesignsystem.com/)
 - [E-bay Mind Patterns](https://ebay.gitbook.io/mindpatterns)
