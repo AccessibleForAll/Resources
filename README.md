@@ -105,8 +105,13 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 
 ## Plain Language  
-- [Words to avoid - Suggestions from Gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
+- [Easy to read standards by Inclusion Europe (available in several languages)](https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/)  
 - [Hemingway Text Editor](https://hemingwayapp.com/)
+- [How to write clearly - EU publication](https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en/format-PDF/source-258163701)
+- [Juicy Studios readability test](https://juicystudio.com/services/readability.php)  
+- [PlainLanguage.gov - US government website](https://www.plainlanguage.gov/)  
+- [Plain Language Network](https://plainlanguagenetwork.org/)
+- [Words to avoid - Suggestions from Gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
 
 ## Podcasts
 
