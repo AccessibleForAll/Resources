@@ -176,7 +176,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Todd Libby](https://twitter.com/toddlibby)
 - [Zoe Bijl](https://twitter.com/ZoeBijl)
 
-## Websites (English)
+## Websites - Misc (English)
 
 - [13 Days of Accessibility](http://a11ycalendar.kaseybon.com/)
 - [18F Content Guide (Guide to plain language)](https://content-guide.18f.gov/)
@@ -190,8 +190,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [APPT.org - mobile apps accessibility guide](https://appt.org/en/)  
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
-- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
-- [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)
+- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
 - [How many?](https://how-many.herokuapp.com/index)   
 - [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
 - [IBM Accessibility](https://www.ibm.com/able/)
@@ -201,20 +200,25 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Testing Accessibility](https://testingaccessibility.com/)
 - [The a11y project](https://www.a11yproject.com/)
 - [The book on accessibility - Measure accessibility at enterprise (or any) scale](https://www.thebookonaccessibility.com/)  
-- [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
 - [WebAIM](https://webaim.org/)
-- [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
 - [web.dev Accessibility](https://web.dev/accessibility/)
 - [WCAG for designers](https://gerireid.com/wcag-for-designers.html)
 - [Whatsock Apex 4x ARIA Development Suite](https://whatsock.com/)
 - [W3C Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria/)
-- [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
+
 
 ## Websites (Other languages)
 
 - [Introduktion till WCAG av Per Axbom - Svenska](https://axbom.eu/digitill/)
 - [Web Content Accessibility Guidelines 2.1 - Svenska/Suomi](https://www.tillganglighetskrav.fi/lagar-och-standarder/wcag-2-1/)
 - [Webbriktlinjer - Svenska](https://webbriktlinjer.se/)
+
+## Websites - W3C / WAI  
+- [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)
+- [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
+- [W3C Accessibility Guidelines 3.0 (Working Draft)](https://www.w3.org/TR/wcag-3.0/)  
+- [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
+- [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
 
 ## Youtube channels/playlists
 
