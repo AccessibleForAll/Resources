@@ -33,6 +33,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Who can use](https://whocanuse.com/)
 
+## Communities  
+
+- [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/)  
+
 ## Conferences
 
 - [Access](https://go.3playmedia.com/en/access/registration)
@@ -53,6 +57,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Courses - Paid
 
 - [Accessibility Testing And Screen Reader - Pluralsight](https://www.pluralsight.com/courses/accessibility-testing-and-screen-reader)
+- [Deque University](https://dequeuniversity.com/)    
 - [Introduction to Developing Custom Components with ARIA 1 - Pluralsight](https://www.pluralsight.com/courses/introduction-developing-custom-components-aria)
 - [Meeting Web Accessibility Guidelines - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
 - [Practical Accessibility - Sara Soueidan](https://practical-accessibility.today/)  
@@ -95,6 +100,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Record a Goose Sighting - GovUK training site](https://record-a-goose-sighting.herokuapp.com/)  
 - [W3C WAI demo page](https://www.w3.org/WAI/demos/bad/before/home.html)
 
+## Laws and Standards  
+- [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
+- [European Accessibility Act (Directive 2019/882) PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
+
+  
 ## Newsletters
 - [A11yWeekly](https://a11yweekly.com/)
 - [Equal Entry](https://equalentry.com/newsletter/)
@@ -168,7 +178,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
-- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
+- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
+- [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)  
 - [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
 - [IBM Accessibility](https://www.ibm.com/able/)
 - [Inclusive Components](https://inclusive-components.design/)
