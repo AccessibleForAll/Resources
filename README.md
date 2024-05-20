@@ -17,6 +17,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [TetraLogical](https://tetralogical.com/blog/)
 - [Wholly Accessible](https://whollyaccessible.org/)
 
+## Books
+- [Accessibility for Everyone - Laura Kalbag](https://abookapart.com/products/accessibility-for-everyone)
+- [Web Accessibility - A Foundation for Research](https://link.springer.com/book/10.1007/978-1-4471-7440-0)  
+
 ## Bookmarklets  
 - [24 pixel cursor bookmarklet - Adrian Roselli](https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html)
 - [A11y Tools](https://a11y-tools.com/bookmarklets/)  
@@ -70,6 +74,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [E-bay Mind Patterns](https://ebay.gitbook.io/mindpatterns)
 - [Gov.uk Design System](https://design-system.service.gov.uk/)
 - [Luna Sainsbury's Design System](https://luna.sainsburys.co.uk/)
+- [VGR Design System (Swedish)](https://design.vgregion.se/89f13106b/p/5120a8-vgr-designsystem)  
 
 ## E-books/Audio books
 
@@ -104,6 +109,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
 - [European Accessibility Act (Directive 2019/882) PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
 
+## Mobile Accessibility
+- [Android Accessibility Checks](https://android-a11y-checks.netlify.app/checks/)  
+- [APPT.org](https://appt.org/en/)
+- [Core App Quality for Android Developers](https://developer.android.com/docs/quality-guidelines/core-app-quality)
+- [Human Interface guidelines for Apple platforms](https://developer.apple.com/design/human-interface-guidelines)
+- [WAI Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/task-forces/matf/)  
   
 ## Newsletters
 - [A11yWeekly](https://a11yweekly.com/)
@@ -177,9 +188,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
+- [APPT.org - mobile apps accessibility guide](https://appt.org/en/)  
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
 - [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
-- [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)  
+- [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)
+- [How many?](https://how-many.herokuapp.com/index)   
 - [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
 - [IBM Accessibility](https://www.ibm.com/able/)
 - [Inclusive Components](https://inclusive-components.design/)
