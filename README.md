@@ -39,7 +39,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Communities  
 
-- [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/)  
+- [Nordic Accessibility Community Group](https://www.w3.org/community/nordic-accessibility/)
+
+
+## Components and Widgets  
+- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
+- [ARIA Widgets - Deque University](https://dequeuniversity.com/library/aria/)  
 
 ## Conferences
 
@@ -189,7 +194,6 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [APPT.org - mobile apps accessibility guide](https://appt.org/en/)  
-- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
 - [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
 - [How many?](https://how-many.herokuapp.com/index)   
 - [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
