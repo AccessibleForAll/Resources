@@ -120,7 +120,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Laws and Standards  
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
-- [European Accessibility Act (Directive 2019/882) PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
+- [European Accessibility Act (Directive 2019/882) English PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
+- [European Accessibility Act (Directive 2019/882) Languages, formats and links](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)   
 
 ## Mobile Accessibility
 - [Android Accessibility Checks](https://android-a11y-checks.netlify.app/checks/)  
@@ -152,7 +153,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [a11yRules](https://a11yrules.com/)  
 - [Accessibility Insights - AbilityNet](https://abilitynet.org.uk/accessibility-services/techshare-procast-abilitynets-podcast)
 - [Allied](https://www.3playmedia.com/alliedpodcast/)  
-- [Disability Visibility](https://disabilityvisibilityproject.com/podcast-2/)  
+- [Disability Visibility](https://disabilityvisibilityproject.com/podcast-2/)
+
+## Social Media
+- [Accessible Social](https://www.accessible-social.com/)  
 
 ## Testing
 - [Cypress-axe NPM package](https://www.npmjs.com/package/cypress-axe)  
