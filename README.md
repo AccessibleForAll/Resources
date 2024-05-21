@@ -34,7 +34,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [A11y Tools](https://a11y-tools.com/bookmarklets/)  
 - [Javascript Bookmarklets for Accessibility Testing by Paul J Adam](https://pauljadam.com/bookmarklets/)  
 
-
+## Cognitive Accessibility
+- [Rekommendationer för kognitiv tillgänglighet på webben - Begripsam (Swedish)](https://www.begripsam.se/download/18.2bf43226182e90df75267418/1664366981647/Rekommendationer%20fo%CC%88r%20kognitiv%20tillga%CC%88nglighet_220928.pdf)  
 
 ## Color and Color Contrast
 
@@ -52,7 +53,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Components and Widgets  
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
-- [ARIA Widgets - Deque University](https://dequeuniversity.com/library/aria/)  
+- [ARIA Widgets - Deque University](https://dequeuniversity.com/library/aria/)
+- [Tommy's inclusive datepicker](https://fymmot.github.io/inclusive-dates/)  
 
 ## Conferences
 
@@ -62,7 +64,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [WebAIM](https://conference.webaim.org/)
 - [Inclusive Design 24](https://inclusivedesign24.org/)
 
-## Courses - Free
+## Courses - Free  
+- [Abra Academy](https://www.abra.ac/)  
 - [FiTech Network University](https://fitech.io/en/studies/?fit_course_types=upcoming&orderby=start_date&fit_topic=4099)  
 - [Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)
 - [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)  
@@ -131,6 +134,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [National Transpositions of EAA for EU member states](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32019L0882)   
 
 ## Mobile Accessibility
+- [Abra AI](https://abra.ai/)  
 - [Android Accessibility Checks](https://android-a11y-checks.netlify.app/checks/)  
 - [APPT.org](https://appt.org/en/)
 - [Better Mobile Inputs](https://better-mobile-inputs.netlify.app/)  
@@ -221,7 +225,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [APPT.org - mobile apps accessibility guide](https://appt.org/en/)  
-- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)  
+- [Disability Laws and Acts by Country](https://www.un.org/development/desa/disabilities/disability-laws-and-acts-by-country-area.html)
+- [Eric Eggert's public codepen](https://codepen.io/yatil/pens/public)  
 - [How many?](https://how-many.herokuapp.com/index)   
 - [HTML Semantics and Accessibility Cheatsheet by WebAIM](https://webaim.org/resources/htmlcheatsheet/)  
 - [IBM Accessibility](https://www.ibm.com/able/)
@@ -242,7 +247,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Websites (Other languages)
 
 - [Introduktion till WCAG av Per Axbom - Svenska](https://axbom.eu/digitill/)
-- [Web Content Accessibility Guidelines 2.1 - Svenska/Suomi](https://www.tillganglighetskrav.fi/lagar-och-standarder/wcag-2-1/)
+- [Web Content Accessibility Guidelines 2.1 - Svenska/Suomi](https://www.tillganglighetskrav.fi/lagar-och-standarder/wcag-2-1/)- 
+- [Webperf (Svenska)](https://webperf.se/om/)  
 - [Webbriktlinjer - Svenska](https://webbriktlinjer.se/)
 
 ## Websites - W3C / WAI  
