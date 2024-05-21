@@ -158,6 +158,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Plain Language Network](https://plainlanguagenetwork.org/)
 - [Words to avoid - Suggestions from Gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
 
+## PDFs  
+- [Matterhorn Protocol 1.1 PDF/UA Conformance Testing Model (PDF)](https://pdfa.org/wp-content/uploads/2021/04/Matterhorn-Protocol-1-1.pdf)  
+- [PDFlib](https://www.pdflib.com/pdf-knowledge-base/pdfua/the-pdfua-standard/)  
+
 ## Podcasts
 
 - [a11yRules](https://a11yrules.com/)  
