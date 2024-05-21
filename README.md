@@ -114,6 +114,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Record a Goose Sighting - GovUK training site](https://record-a-goose-sighting.herokuapp.com/)  
 - [W3C WAI demo page](https://www.w3.org/WAI/demos/bad/before/home.html)
 
+## Inclusive Design
+- [Inclusive Design Principles](https://inclusivedesignprinciples.info/)
+- [Microsoft Inclusive Design](https://inclusive.microsoft.design/)  
+
 ## Laws and Standards  
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
 - [European Accessibility Act (Directive 2019/882) PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
