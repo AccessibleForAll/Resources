@@ -63,7 +63,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Inclusive Design 24](https://inclusivedesign24.org/)
 
 ## Courses - Free
-
+- [FiTech Network University](https://fitech.io/en/studies/?fit_course_types=upcoming&orderby=start_date&fit_topic=4099)  
 - [Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)
 - [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)  
 - [Learn Accessibility - Google](https://web.dev/learn/accessibility/)  
@@ -127,6 +127,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
 - [European Accessibility Act (Directive 2019/882) English PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
 - [European Accessibility Act (Directive 2019/882) Languages, formats and links](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)
+- [Lag (2023:254) om vissa produkters och tjänsters tillgänglighet (Swedish)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2023254-om-vissa-produkters-och-tjansters_sfs-2023-254/)  
 - [National Transpositions of EAA for EU member states](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32019L0882)   
 
 ## Mobile Accessibility
