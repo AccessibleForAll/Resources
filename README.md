@@ -2,6 +2,10 @@
 
 A collection of blogs, websites, twitter accounts and other accessibility resources.
 
+## Accessibility Statements - Examples and Templates
+- [DIGG.se - Skapa en tillgänglighetsredogörelse (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/skapa-en-tillganglighetsredogorelse#h-sv-default-anchor-0)
+
+  
 ## Blogs
 
 - [Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)
