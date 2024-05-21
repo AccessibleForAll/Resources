@@ -72,7 +72,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Web Accessibility - Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 
 ## Courses - Paid
-
+- [A11y Collective](https://www.a11y-collective.com/)  
 - [Accessibility Testing And Screen Reader - Pluralsight](https://www.pluralsight.com/courses/accessibility-testing-and-screen-reader)
 - [Deque University](https://dequeuniversity.com/)    
 - [Introduction to Developing Custom Components with ARIA 1 - Pluralsight](https://www.pluralsight.com/courses/introduction-developing-custom-components-aria)
