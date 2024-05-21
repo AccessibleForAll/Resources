@@ -4,6 +4,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Accessibility Statements - Examples and Templates
 - [DIGG.se - Skapa en tillgänglighetsredogörelse (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/skapa-en-tillganglighetsredogorelse#h-sv-default-anchor-0)
+- [University of Helsinki Accessibility Statement (English)](https://www.helsinki.fi/en/accessibility-statement)  
 
   
 ## Blogs
