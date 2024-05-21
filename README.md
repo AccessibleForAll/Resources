@@ -55,6 +55,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Components and Widgets  
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)  
 - [ARIA Widgets - Deque University](https://dequeuniversity.com/library/aria/)
+- [React: Using native dialogs to make a modal](https://dev.to/link2twenty/react-using-native-dialogs-to-make-a-modal-popup-4b25)  
 - [Tommy's inclusive datepicker](https://fymmot.github.io/inclusive-dates/)  
 
 ## Conferences
@@ -83,6 +84,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Meeting Web Accessibility Guidelines - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
 - [Practical Accessibility - Sara Soueidan](https://practical-accessibility.today/)  
 - [Testing Accessibility - Marcy sutton](https://testingaccessibility.com/)
+- [Testing Accessibility Github Resources (free)](https://github.com/testing-accessibility)
+- [Testing Accessibility Workshop Resource list (free)](https://workshop-resources.testingaccessibility.com/)  
 
 ## Design Systems and Patterns
 - [Arbetsförmedlingen (Swedish)](https://designsystem.arbetsformedlingen.se/)  
@@ -131,8 +134,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
 - [European Accessibility Act (Directive 2019/882) English PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0882&from=EN)  
 - [European Accessibility Act (Directive 2019/882) Languages, formats and links](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)
-- [Lag (2023:254) om vissa produkters och tjänsters tillgänglighet (Swedish)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2023254-om-vissa-produkters-och-tjansters_sfs-2023-254/)  
-- [National Transpositions of EAA for EU member states](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32019L0882)   
+- [Lag (2023:254) om vissa produkters och tjänsters tillgänglighet (Swedish)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2023254-om-vissa-produkters-och-tjansters_sfs-2023-254/)
+- [Latest changes to accessibility standard EN 301 549](https://digital-strategy.ec.europa.eu/en/policies/latest-changes-accessibility-standard)  
+- [National Transpositions of EAA for EU member states](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32019L0882)
+
 
 ## Mobile Accessibility
 - [Abra AI](https://abra.ai/)  
@@ -174,6 +179,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Insights - AbilityNet](https://abilitynet.org.uk/accessibility-services/techshare-procast-abilitynets-podcast)
 - [Allied](https://www.3playmedia.com/alliedpodcast/)  
 - [Disability Visibility](https://disabilityvisibilityproject.com/podcast-2/)
+
+## Screen readers  
+- [Screen reader reference guides - deque](https://dequeuniversity.com/screenreaders/)  
+- [Voiceover keyboard shortcuts on Mac - deque](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)  
+- [Voiceover quick reference guide - deque (PDF)](https://media.dequeuniversity.com/en/courses/generic/testing-screen-readers/2.0/docs/voiceover-macos-guide.pdf)  
 
 ## Social Media
 - [Accessible Social](https://www.accessible-social.com/)  
