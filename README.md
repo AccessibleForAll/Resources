@@ -117,7 +117,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Inclusive Design
 - [Inclusive Design Principles](https://inclusivedesignprinciples.info/)
-- [Microsoft Inclusive Design](https://inclusive.microsoft.design/)  
+- [Microsoft Inclusive Design](https://inclusive.microsoft.design/)
+- [Microsoft Inclusive Design for Cognition PDF](https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf)  
 
 ## Laws and Standards  
 - [EN 301 549 PDF](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)  
