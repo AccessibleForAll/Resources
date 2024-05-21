@@ -249,8 +249,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)
 - [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
 - [W3C Accessibility Guidelines 3.0 (Working Draft)](https://www.w3.org/TR/wcag-3.0/)  
-- [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
 - [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
+- [WCAG Working Group](https://www.w3.org/WAI/GL/wiki/Main_Page)
+- [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
+- [Web Content Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/)  
 
 ## Youtube channels/playlists
 
