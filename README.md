@@ -133,6 +133,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 ## Mobile Accessibility
 - [Android Accessibility Checks](https://android-a11y-checks.netlify.app/checks/)  
 - [APPT.org](https://appt.org/en/)
+- [Better Mobile Inputs](https://better-mobile-inputs.netlify.app/)  
 - [Core App Quality for Android Developers](https://developer.android.com/docs/quality-guidelines/core-app-quality)
 - [Human Interface guidelines for Apple platforms](https://developer.apple.com/design/human-interface-guidelines)
 - [WAI Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/task-forces/matf/)  
