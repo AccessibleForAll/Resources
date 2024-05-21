@@ -2,6 +2,9 @@
 
 A collection of blogs, websites, twitter accounts and other accessibility resources.
 
+## Auditing
+- [Tillsynsmanual för granskning av webbsidor - DIGG.se (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/tillsynsmanual-for-granskning-av-webbsidor)  
+
 ## Accessibility Statements - Examples and Templates
 - [DIGG.se - Skapa en tillgänglighetsredogörelse (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/skapa-en-tillganglighetsredogorelse#h-sv-default-anchor-0)
 - [University of Helsinki Accessibility Statement (English)](https://www.helsinki.fi/en/accessibility-statement)  
