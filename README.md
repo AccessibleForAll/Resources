@@ -147,7 +147,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 
 ## Plain Language  
-- [Easy to read standards by Inclusion Europe (available in several languages)](https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/)  
+- [Common European Framework of Reference for Language Skills (CEFR)](https://europass.europa.eu/en/common-european-framework-reference-language-skills)
+- [CEFR Global Scale Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)  
+- [Easy to read standards by Inclusion Europe (available in several languages)](https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/)
+- [Gemensam europeisk referensram för språk (GERS) PDF by Skolverket (Swedish)](https://www.skolverket.se/getFile?file=2144)
 - [Hemingway Text Editor](https://hemingwayapp.com/)
 - [How to write clearly - EU publication](https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en/format-PDF/source-258163701)
 - [Juicy Studios readability test](https://juicystudio.com/services/readability.php)  
