@@ -100,7 +100,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [VGR Design System (Swedish)](https://design.vgregion.se/89f13106b/p/5120a8-vgr-designsystem)  
 
 ## E-books/Audio books
-
+- [Agile Accessibility Handbook - Dylan Barrell (PDF)](https://f.hubspotusercontent00.net/hubfs/153358/Agile-Accessibility-Handbook.pdf)  
 - [Giving a Damn about Accessibility - Sheri Byrne-Haber](https://www.accessibility.uxdesign.cc/)
 
 ## Extensions
@@ -112,6 +112,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [HeadingsMap (Chrome)](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 - [Site Unseen (Chrome)](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh)
 - [taba11y (Chrome)](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga)
+- [Text Spacing Editor (Chrome)](https://chromewebstore.google.com/detail/text-spacing-editor/amnelgbfbdlfjeaobejkfmjjnmeddaoj)  
 - [Wave Evaluation Tool (Chrome)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 - [WCAG Color Contrast Checker (Chrome)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
 
