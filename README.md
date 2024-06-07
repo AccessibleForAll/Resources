@@ -3,7 +3,6 @@
 A collection of blogs, websites, twitter accounts and other accessibility resources.
 
 ## Auditing
-- [MyHelsinki](https://myhelsinki-accessibility-audit.netlify.app/)  
 - [Tillsynsmanual för granskning av webbsidor - DIGG.se (Swedish)](https://www.digg.se/kunskap-och-stod/digital-tillganglighet/tillsynsmanual-for-granskning-av-webbsidor)  
 
 ## Accessibility Statements - Examples and Templates
@@ -277,6 +276,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Websites - W3C / WAI  
 - [Framework for Accessibility in the Specification of Technologies (FAST) DRAFT checklist](https://w3c.github.io/apa/fast/checklist.html)
+- [POUR cards - Geri Reid (PDF)](https://www.gerireid.com/WCAG-POUR-cards.pdf)  
 - [Using ARIA - W3C Editor's Draft](https://w3c.github.io/using-aria/)
 - [W3C Accessibility Guidelines 3.0 (Working Draft)](https://www.w3.org/TR/wcag-3.0/)  
 - [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
