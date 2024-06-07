@@ -17,6 +17,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Bureau of Internet Accessibility](https://www.boia.org/blog)  
 - [Deque Blog](https://www.deque.com/blog/)  
 - [Hidde de Vries](https://hidde.blog/blog/)
+- [Karl Groves](https://karlgroves.com/)  
 - [Kitty Giraudel](https://kittygiraudel.com/blog/)
 - [Leonie Watson](https://tink.uk/)
 - [Meryl Evans](https://meryl.net/blog/)
@@ -89,6 +90,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Testing Accessibility - Marcy sutton](https://testingaccessibility.com/)
 - [Testing Accessibility Github Resources (free)](https://github.com/testing-accessibility)
 - [Testing Accessibility Workshop Resource list (free)](https://workshop-resources.testingaccessibility.com/)  
+
+
+## Data Visualization
+- [Accessibility and data visualization - The viz collective](https://thevizcollective.starschema.com/posts/accessibility-and-data-visualization)  
 
 ## Design Systems and Patterns
 - [Arbetsförmedlingen (Swedish)](https://designsystem.arbetsformedlingen.se/)  
