@@ -67,14 +67,17 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Inclusive Design 24](https://inclusivedesign24.org/)
 
 ## Courses - Free  
-- [Abra Academy](https://www.abra.ac/)  
+- [Abra Academy](https://www.abra.ac/)
+- [Accessibility Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)  
 - [FiTech Network University](https://fitech.io/en/studies/?fit_course_types=upcoming&orderby=start_date&fit_topic=4099)  
 - [Introduction to disability and accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/)
 - [Introduction to Web Accessibility - edX](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home)  
 - [Learn Accessibility - Google](https://web.dev/learn/accessibility/)  
 - [Learn the basics of web accessibility - Microsoft](https://docs.microsoft.com/en-us/learn/modules/web-development-101-accessibility/)
+- [Section 508 Trusted Tester Training](https://www.dhs.gov/508-training)  
 - [Start Building Accessible Web Applications Today - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 - [Web Accessibility - Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+ 
 
 ## Courses - Paid
 - [A11y Collective](https://www.a11y-collective.com/)  
@@ -179,6 +182,10 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessibility Insights - AbilityNet](https://abilitynet.org.uk/accessibility-services/techshare-procast-abilitynets-podcast)
 - [Allied](https://www.3playmedia.com/alliedpodcast/)  
 - [Disability Visibility](https://disabilityvisibilityproject.com/podcast-2/)
+
+
+## Research papers
+- [Challenges in Meeting Accessibility Needs in a fast-evolving Digital Environment by Susanna Laurin and Sara Kjellstrand (PDF)](https://eldorado.tu-dortmund.de/bitstream/2003/42477/1/04_Laurin_Kjellstrand_Rehabilitationstechnologie_im_Wandel44-55.pdf)  
 
 ## Screen readers  
 - [Screen reader reference guides - deque](https://dequeuniversity.com/screenreaders/)  
