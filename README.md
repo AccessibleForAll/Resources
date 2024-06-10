@@ -124,6 +124,9 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Axe for Designers (FREE)](https://www.figma.com/community/plugin/1085612091163821851/Axe-for-Designers-(FREE))  
 - [Include - Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/Include/Include%E2%80%94Accessibility-Annotations)
 
+## Games and Gaming
+- [Blindfold Color Crush - iOS game](https://www.perkins.org/resource/blindfold-color-crush-ios-game/)  
+
 ## Inaccessible sites for demo purposes  
 - [Accessible University](https://openassessittoolkit.github.io/accessible_u/before_u.html)
 - [Awesome Store Demo](https://www.tpgarcdemo.com/)
