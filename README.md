@@ -11,10 +11,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
   
 ## Blogs
-
+- [Adrian Roselli](https://adrianroselli.com/posts)  
 - [Axess Lab](https://axesslab.com/sv/artiklar/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiND1sSN-ZaABl468Yy44Deiq1URKrXf2DfEADS9BrjzvCRK7-nCkNMaAsoQEALw_wcB)
 - [Bureau of Internet Accessibility](https://www.boia.org/blog)  
-- [Deque Blog](https://www.deque.com/blog/)  
+- [Deque Blog](https://www.deque.com/blog/)
+- [Eric Eggert](https://yatil.net/blog)  
 - [Hidde de Vries](https://hidde.blog/blog/)
 - [Karl Groves](https://karlgroves.com/)  
 - [Kitty Giraudel](https://kittygiraudel.com/blog/)
