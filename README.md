@@ -44,6 +44,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 - [ColorSafe](http://colorsafe.co/)
 - [Contrast Tools (calculates for both WCAG 2.1 and the coming WCAG 3.0)](https://contrast.tools/)
+- [Tanaguru Contrast Finder](https://contrast-finder.tanaguru.com/)  
 - [WCAG Color Contrast Checker (Chrome Extension)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Who can use](https://whocanuse.com/)
