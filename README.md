@@ -29,6 +29,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 
 ## Books
 - [Accessibility for Everyone - Laura Kalbag](https://abookapart.com/products/accessibility-for-everyone)
+- [Design for Real Life - Eric Meyer and Sara Wachter-Boettcher](https://dfrlbook.com/)  
 - [Web Accessibility - A Foundation for Research](https://link.springer.com/book/10.1007/978-1-4471-7440-0)  
 
 ## Bookmarklets  
@@ -40,10 +41,11 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [Rekommendationer för kognitiv tillgänglighet på webben - Begripsam (Swedish)](https://www.begripsam.se/download/18.2bf43226182e90df75267418/1664366981647/Rekommendationer%20fo%CC%88r%20kognitiv%20tillga%CC%88nglighet_220928.pdf)  
 
 ## Color and Color Contrast
-
+- [Accessible color palette generator - Venngage](https://venngage.com/tools/accessible-color-palette-generator)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 - [ColorSafe](http://colorsafe.co/)
 - [Contrast Tools (calculates for both WCAG 2.1 and the coming WCAG 3.0)](https://contrast.tools/)
+- [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)  
 - [Tanaguru Contrast Finder](https://contrast-finder.tanaguru.com/)  
 - [WCAG Color Contrast Checker (Chrome Extension)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
@@ -103,6 +105,7 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [E-bay Mind Patterns](https://ebay.gitbook.io/mindpatterns)
 - [Gov.uk Design System](https://design-system.service.gov.uk/)
 - [Luna Sainsbury's Design System](https://luna.sainsburys.co.uk/)
+- [Neurodiversity Design System](https://neurodiversity.design/)  
 - [VGR Design System (Swedish)](https://design.vgregion.se/89f13106b/p/5120a8-vgr-designsystem)  
 
 ## E-books/Audio books
@@ -170,16 +173,18 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [WebAIM Newsletter](https://webaim.org/newsletter/)
 
 
-## Plain Language  
+## Plain Language and Numbers
 - [Common European Framework of Reference for Language Skills (CEFR)](https://europass.europa.eu/en/common-european-framework-reference-language-skills)
 - [CEFR Global Scale Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)  
 - [Easy to read standards by Inclusion Europe (available in several languages)](https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/)
 - [Gemensam europeisk referensram för språk (GERS) PDF by Skolverket (Swedish)](https://www.skolverket.se/getFile?file=2144)
 - [Hemingway Text Editor](https://hemingwayapp.com/)
 - [How to write clearly - EU publication](https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en/format-PDF/source-258163701)
-- [Juicy Studios readability test](https://juicystudio.com/services/readability.php)  
+- [Juicy Studios readability test](https://juicystudio.com/services/readability.php)
+- [NHS Content Guide](https://service-manual.nhs.uk/content)  
 - [PlainLanguage.gov - US government website](https://www.plainlanguage.gov/)  
 - [Plain Language Network](https://plainlanguagenetwork.org/)
+- [Readability Guidelines - Content Design London](https://readabilityguidelines.co.uk/)  
 - [Words to avoid - Suggestions from Gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
 
 ## PDFs  
@@ -247,9 +252,12 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [A11y-101 Introduction to Accessibility](https://a11y-101.com/)
 - [A11y Coffee](https://a11y.coffee/)
 - [A11y is Everything - Interactive Quizzes](https://www.a11yiseverything.com/quizzes/)
-- [A11y Solutions](https://a11y-solutions.stevenwoodson.com/)   
+- [A11y Solutions](https://a11y-solutions.stevenwoodson.com/)
+- [Accessibility Acceptance Criteria - MagentaA11y](https://www.magentaa11y.com/)  
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
-- [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)  
+- [Accessibility Guidelines for different job roles](https://accessibility.voxmedia.com/)
+- [Accessibility Not Criteria - Intopia](https://not-checklist.intopia.digital/)
+- [Accessible Numbers](https://accessiblenumbers.com/)  
 - [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/)
 - [Accessibility Support (like Can I Use...?)](https://a11ysupport.io/)
 - [APPT.org - mobile apps accessibility guide](https://appt.org/en/)  
@@ -264,7 +272,8 @@ A collection of blogs, websites, twitter accounts and other accessibility resour
 - [SCULPT for Accessibility - A beginner's guide to accessibility](https://www.worcestershire.gov.uk/council-services/business/digital-worcestershire/sculpt-accessibility)  
 - [Testing Accessibility](https://testingaccessibility.com/)
 - [The a11y project](https://www.a11yproject.com/)
-- [The book on accessibility - Measure accessibility at enterprise (or any) scale](https://www.thebookonaccessibility.com/)  
+- [The book on accessibility - Measure accessibility at enterprise (or any) scale](https://www.thebookonaccessibility.com/)
+- [This is WCAG](https://thisiswcag.com/)  
 - [WebAIM](https://webaim.org/)
 - [web.dev Accessibility](https://web.dev/accessibility/)
 - [WCAG for designers](https://gerireid.com/wcag-for-designers.html)
